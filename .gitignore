@@ -1,6 +1,9 @@
-.metadata
-/Cricket Match Predicion/.project
-/Cricket Match Predicion/.pydevproject
-.project
-.pydevproject
+/*/.metadata
+/*/.project
+/*/.pydevproject
 pushToGithub.bat
+/*/.idea
+/*/project
+/*/target
+/*/.project
+/*/.pydevproject
