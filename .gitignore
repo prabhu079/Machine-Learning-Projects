@@ -2,7 +2,6 @@
 */.project
 */.pydevproject
 */target
-*/.pydevproject
 */.idea
 pushToGithub.bat
 pushToGithub.sh
