@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../../../Diwakar_Python_Workspace/.idea/Diwakar_Python_Workspace.iml" filepath="$PROJECT_DIR$/../../../../Diwakar_Python_Workspace/.idea/Diwakar_Python_Workspace.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/EntityBasedSentimentPrediction.iml" filepath="$PROJECT_DIR$/.idea/EntityBasedSentimentPrediction.iml" />
-    </modules>
-  </component>
-</project>
